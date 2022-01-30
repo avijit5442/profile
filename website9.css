@@ -43,7 +43,8 @@
                   border: 1px solid white;
                   margin-left:  540px;
                   margin-top: 8px;
-                  background:linear-gradient(180deg, white  ,30%, rgb(243, 29, 29) 50%);
+                  background-image: url(./c5.jpg);
+             
                   box-shadow: 10px 10px 10px rgb(24, 24, 24);}
                   .box1:hover{transform:scale(1.1)}
             .box2{height:300px;
@@ -51,7 +52,7 @@
                   border: 1px solid white;
                   margin-left: 810px;
                   margin-top: -300px;
-                  background:linear-gradient(180deg, whitesmoke  ,30%, rgb(223 172 30) 50%);
+                  background-image: url(./AI.jpg);
                   box-shadow: 10px 10px 10px rgb(24, 24, 24);}
                   .box2:hover{transform:scale(1.1)}
             .box3{height:300px;
@@ -59,7 +60,8 @@
                   border: 1px solid white;
                   margin-left: 1078px;
                   margin-top: -300px;
-                  background:linear-gradient(180deg, white  ,30%, rgb(255 128 128) 50%);
+                  background-image: url(./WEB\ DEVELOPER.jpg);
+                  background-size: cover;
                   box-shadow: 10px 10px 10px rgb(24, 24, 24)}
                .box3:hover{transform:scale(1.1)}
             .boxtext{color: white;
