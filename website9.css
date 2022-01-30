@@ -156,7 +156,7 @@
                        margin-left: 80px;}
             .text16>img{margin-top: 20px;
                         height: 64px}
-            .btn2{margin-left: 640px;
+            .btn2{margin-left: 728px;
                   font-size:15px;
                   background-color:rgb(248, 74, 74) ;
                   margin-top: 40px;}
@@ -166,20 +166,20 @@
            width:45%;
            margin-top:1%;
            margin-left: 2%;}
-      .vl{border-left: 2px solid grey;
+      .verticalline{border-left: 2px solid grey;
           height: 450px;
-          margin-left: 660px;
+          margin-left: 770px;
           margin-top: -450px}
       .text17{font-size: 15px;
               text-align: center;
               margin-top: 10px;
               color: red;}
-      .text18{margin-left: 716px;
+      .text18{margin-left: 820px;
               margin-top: -448px;}
       .text19{font-size: 15px;
               float: right;
-              margin-right: 524px;}
-      .text20{margin-left: 710px;
+              margin-right: 584px;}
+      .text20{margin-left: 820px;
               margin-top: 40px;
               font-size: 26px;}
       
