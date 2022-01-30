@@ -10,4 +10,5 @@ nq.b={
 
 }
 
+
 module.exports = nq;
