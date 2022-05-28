@@ -140,7 +140,10 @@
       .text13{text-align: center;
               margin-top:40px;
               color: red;}
-#content4{height:500px;}
+      .image{
+            margin-left: 58vh;
+            }
+#content4{height:320px;}
       .text14{text-align: center;
               margin-top:80px;
               color: red;}
@@ -149,7 +152,6 @@
               color:black;}
       .content4box{height: 100px;
                    width:20%;
-                   
                    float: left;
                    margin-left: 50px;
                    margin-top: 40px;}
