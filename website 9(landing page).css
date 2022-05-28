@@ -5,7 +5,8 @@
     border-radius: 50%;
     margin-left: 93vh;
     margin-top: 32vh;
-    background: radial-gradient(black, transparent);
+    background-image: url(./images/a\ logo4.jpg);
+    background-size:contain;
     animation: move5 4s linear infinite;
 }
 #dot{
