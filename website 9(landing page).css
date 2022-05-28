@@ -1,0 +1,87 @@
+#circle{
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 93vh;
+    margin-top: 32vh;
+    background: radial-gradient(black, transparent);
+    animation: move5 4s linear infinite;
+}
+#dot{
+    height: 10px;
+    width: 10px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 4vh;
+    margin-top: 5vh;
+    box-shadow: -1px 0px 20px 7px rebeccapurple;
+
+}
+@keyframes move5{
+    0%{transform: rotateZ(1deg)}
+    100%{transform: rotateZ(360deg)}
+}
+#circle2{
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-left: 135vh;
+    margin-top: -39vh;
+    background: radial-gradient(red, yellow);
+    animation: move5 4s linear infinite;
+}
+#dot2{
+    height: 10px;
+    width: 10px;
+    background-color: aqua;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 4vh;
+    margin-top: 5vh;
+    box-shadow: -1px 0px 20px 7px rebeccapurple;
+}
+#joint{
+    height: 3px;
+    width: 21px;
+    background: red;
+    position: absolute;
+    margin-left: 132vh;
+    margin-top: -20vh;
+}
+#text{
+    font-size: 76px;
+    color: white;
+    margin-left: 916px;
+    position: absolute;
+    margin-top: -30vh;
+}
+#text2{
+    font-size: 25px;
+    color: white;
+    margin-left: 938px;
+    position: absolute;
+    margin-top: -13vh;
+}
+#btn{
+    height: 30px;
+    background: linear-gradient(45deg, black, transparent);
+    margin-left: 150vh;
+    position: absolute;
+    margin-top: -7vh;
+    color: aqua;
+}
+#btn a{
+    color: #a9ff00;
+    text-decoration: none;
+}
+.hide{
+    
+}
+.show{
+    visibility:visible
+}
+
+
