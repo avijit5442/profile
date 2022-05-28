@@ -28,8 +28,8 @@
     width: 250px;
     border: 1px solid black;
     border-radius: 50%;
-    margin-left: 135vh;
-    margin-top: -39vh;
+    margin-left: 130vh;
+    margin-top: -34vh;
     background: radial-gradient(red, yellow);
     animation: move5 4s linear infinite;
 }
@@ -45,30 +45,30 @@
 }
 #joint{
     height: 3px;
-    width: 21px;
+    width: 20px;
     background: red;
     position: absolute;
-    margin-left: 132vh;
-    margin-top: -20vh;
+    margin-left: 128vh;
+    margin-top: -19vh;
 }
 #text{
-    font-size: 76px;
-    color: white;
-    margin-left: 916px;
+    font-size: 66px;
+    color: aliceblue;
+    margin-left: 976px;
     position: absolute;
-    margin-top: -30vh;
+    margin-top: -27vh;
 }
 #text2{
     font-size: 25px;
-    color: white;
-    margin-left: 938px;
+    color: black;
+    margin-left: 986px;
     position: absolute;
     margin-top: -13vh;
 }
 #btn{
     height: 30px;
     background: linear-gradient(45deg, black, transparent);
-    margin-left: 150vh;
+    margin-left: 143vh;
     position: absolute;
     margin-top: -7vh;
     color: aqua;
@@ -77,11 +77,6 @@
     color: #a9ff00;
     text-decoration: none;
 }
-.hide{
-    
-}
-.show{
-    visibility:visible
-}
+
 
 
