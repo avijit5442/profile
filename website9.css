@@ -164,8 +164,56 @@
                   font-size:15px;
                   background-color:rgb(248, 74, 74) ;
                   margin-top: 66px;}
-#content5{height: 512px;
-         background-color: rgb(178, 213, 243) ;}
+.project_box{
+      height:300px;
+      width:300px;
+      border:1px solid yellowgreen;
+      float:left;
+      margin-left:40px;
+      margin-top:40px;
+      margin-bottom:40px;
+      border-radius: 10px;
+}
+#project1{
+      background-image:url(./AI.jpg);
+}
+#project2{
+      background-image:url(./AI.jpg);
+}
+#project3{
+      background-image:url(./AI.jpg);
+}
+#project4{
+      background-image:url(./AI.jpg);
+}
+#project5{
+      background-image:url(./AI.jpg);
+}
+#project6{
+      background-image:url(./AI.jpg);
+}
+#project7{
+      background-image:url(./AI.jpg);
+}
+#project8{
+      background-image:url(./AI.jpg);
+}
+.block{
+    display:block;
+}
+.none{
+      display:none;  
+}
+.opacity_normal{
+   opacity:1
+}
+.opacity_low{
+  opacity:0.7    
+}
+.project_box>button{
+      display:none
+}
+
       .map{height:450px;
            width:45%;
            margin-top:1%;
@@ -182,9 +230,13 @@
               margin-top: -448px;}
       .text19{font-size: 15px;
               float: right;
-              margin-right: 584px;}
+              margin-right: 300px;}
       .text20{margin-left: 820px;
               margin-top: 40px;
               font-size: 26px;}
-      
+      .text21{font-size: 15px;
+              float: right;
+              margin-right: -245px;
+              margin-top: 20px;
+            }
       
