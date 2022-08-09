@@ -175,33 +175,33 @@
       border-radius: 10px;
 }
 #project1{
-      background-image:url(./bs-web.png);
+      background-image:url(./bS-web.jpg);
       background-size: contain;
 }
 #project2{
-      background-image:url(./food.png);
+      background-image:url(./food.jpg);
       background-size: contain;
 }
 #project3{
-      background-image:url(./css+js.png);
+      background-image:url(./css+js.jpg);
       background-size: contain;
 }
 #project4{
-      background-image:url(./cursor.png);
+      background-image:url(./20220809_120628.jpg);
       background-size: contain;
 }
 #project5{
-      background-image:url(./calculator.png);
+      background-image:url(./20220809_120633.jpg);
       background-size: contain;
       background-repeat: no-repeat;
 }
 #project6{
-      background-image:url(./clock1.png);
+      background-image:url(./20220809_120639.jpg);
       background-size: contain;
       background-repeat: no-repeat;
 }
 #project7{
-      background-image:url(/clock2.png);
+      background-image:url(./20220809_120647.jpg);
       background-size: contain;
       background-repeat: no-repeat;
 }
