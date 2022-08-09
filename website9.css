@@ -175,25 +175,35 @@
       border-radius: 10px;
 }
 #project1{
-      background-image:url(./AI.jpg);
+      background-image:url(./bs-web.png);
+      background-size: contain;
 }
 #project2{
-      background-image:url(./AI.jpg);
+      background-image:url(./food.png);
+      background-size: contain;
 }
 #project3{
-      background-image:url(./AI.jpg);
+      background-image:url(./css+js.png);
+      background-size: contain;
 }
 #project4{
-      background-image:url(./AI.jpg);
+      background-image:url(./cursor.png);
+      background-size: contain;
 }
 #project5{
-      background-image:url(./AI.jpg);
+      background-image:url(./calculator.png);
+      background-size: contain;
+      background-repeat: no-repeat;
 }
 #project6{
-      background-image:url(./AI.jpg);
+      background-image:url(./clock1.png);
+      background-size: contain;
+      background-repeat: no-repeat;
 }
 #project7{
-      background-image:url(./AI.jpg);
+      background-image:url(/clock2.png);
+      background-size: contain;
+      background-repeat: no-repeat;
 }
 #project8{
       background-image:url(./AI.jpg);
@@ -214,16 +224,13 @@
       display:none
 }
 
-      .map{height:250px;
+      .map{height:450px;
            width:100%;
            margin-top:1%;
-           margin-left: 2%;
-           margin-right: 5%}
+           margin-left: 2%;}
       .text17{font-size: 15px;
               text-align: center;
-              margin-top: 106vh;
-              color: red;
-              margin-right: 118px;
-              }
-              
+              margin-top: 10px;
+              color: red;}
+
       
